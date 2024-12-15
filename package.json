@@ -1,36 +1,36 @@
 {
-  "name": "nighthawk",
-  "displayName": "Nighthawk",
+  "name": "nightchewy",
+  "displayName": "Nightchewy",
   "description": "A synthwave inspired dark VS Code theme. Leaning to the side of higher contrast and more accentuated borders and shadows. Into the dark 🌃🌑",
   "version": "1.0.0",
-  "publisher": "ezzak",
+  "publisher": "ChewyGonzales",
   "engines": {
     "vscode": "^1.41.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ezzak/nighthawk"
+    "url": "https://github.com/ChewyGonzales/nightchewy"
   },
   "categories": [
     "Themes"
   ],
   "bugs": {
-    "url": "https://github.com/ezzak/nighthawk/issues",
+    "url": "https://github.com/ChewyGonzales/nightchewy/issues",
     "email": "ezz1994@gmail.com"
   },
   "keywords": [
     "Dark Theme",
     "Synthwave",
     "Nocturnal",
-    "Nighthawk",
+    "Nightchewy",
     "color-theme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Nighthawk",
+        "label": "Nightchewy",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nighthawk-color-theme.json"
+        "path": "./themes/Nightchewy-color-theme.json"
       }
     ]
   },
